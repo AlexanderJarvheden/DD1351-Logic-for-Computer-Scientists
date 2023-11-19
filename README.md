@@ -37,3 +37,4 @@ This course gives an introduction to mathematical logic and its use within compu
 - Syntax and semantics: Kripke structures
 - Proof techniques: model checking
 
+[Course information](https://www.kth.se/student/kurser/kurs/DD1351?l=en)

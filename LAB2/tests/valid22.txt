@@ -1,9 +1,9 @@
 
-[t].					# Premises
+[t].
 
-imp(p, imp(q, imp(r, imp(s, t)))).	# Goal to proof
+imp(p, imp(q, imp(r, imp(s, t)))).
 
-[					# Proof by natural deduction
+[
   [1, t, premise],
   [
     [2, p, assumption],

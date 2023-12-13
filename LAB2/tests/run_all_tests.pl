@@ -23,7 +23,7 @@ run_all_tests(ProgramToTest) :-
                     'invalid22.txt', 'invalid23.txt', 'invalid24.txt',
                     'invalid25.txt', 'invalid26.txt', 'invalid27.txt',
                     'invalid28.txt', 'invalid29.txt', 'invalid30.txt',
-                    'invalid31.txt', 'invalid32.txt']),
+                    'invalid31.txt', 'invalid32.txt', 'invalid33.txt', 'invalid34.txt', 'invalid35.txt', 'invalid36.txt']),
     halt.
 
 

@@ -1,0 +1,26 @@
+% States are s0, s1, s2, s3, s4
+% Adjacency lists of LTS
+[
+    [s0, [s1, s2]],
+    [s1, [s0]],
+    [s2, [s3]],
+    [s3, [s4]],
+    [s4, [s0]]
+].
+
+% Labeling of LTS
+[
+    [s0, [i]],
+    [s1, [r]],
+    [s2, [b]],
+    [s3, [e]],
+    [s4, [rd]]
+].
+
+s0.
+
+eg(ef(r)).
+
+ef(ag(e)).
+
+
